@@ -1,0 +1,1 @@
+Framework de recursos 2D (módulo feature2d) - detectores de recursos, descritores e estrutura de correspondência

@@ -27,7 +27,7 @@ cv.imshow("ST-33", img)
 # '0' (zero) indica tempo infinito.
 k = cv.waitKey(0)
 
-# 6º.  Usar a função cv.imwrite para salvar a imagem em um arquivo.
+# 6º.  Usar a função cv.imwrite para escrever uma matriz em um arquivo de imagem. (Salvar a imagem).
 # Usar como argumento o caminho do arquivo.
 
 if k == ord("s" or "S"):

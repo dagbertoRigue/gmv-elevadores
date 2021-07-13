@@ -1,0 +1,1 @@
+Graph API (módulo gapi) - abordagem baseada em gráfico para a construção de algoritmos de visão computacional

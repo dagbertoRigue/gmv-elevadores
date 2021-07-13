@@ -1,0 +1,1 @@
+Calibração de câmera e reconstrução 3D (módulo calib3d) - extraia informações do mundo 3D de imagens 2D

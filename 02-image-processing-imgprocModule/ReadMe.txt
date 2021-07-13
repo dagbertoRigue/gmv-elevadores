@@ -1,0 +1,1 @@
+Processamento de imagem (módulo imgproc) - funções de processamento de imagem

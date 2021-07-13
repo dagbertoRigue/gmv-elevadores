@@ -1,0 +1,1 @@
+A Funcionalidade Central (módulo central) - blocos de construção básicos da biblioteca

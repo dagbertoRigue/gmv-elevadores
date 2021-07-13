@@ -1,0 +1,1 @@
+Utilitários de aplicativos (highgui, imgcodecs, módulos videoio) - utilitários de aplicativos (GUI, entrada / saída de imagem / vídeo)

@@ -1,0 +1,1 @@
+Redes neurais profundas (módulo dnn) - inferir redes neurais usando o módulo dnn integrado
