@@ -1,9 +1,0 @@
-Acessar https://opencv.org/ que é a página oficial.
-Acessar 'Tutorial' >>> Introduction to openCV
-Escolha o tutorial para o sistema operacional desejado.
-
-Caso já tenha o Anaconda instalado, pode-se instalar o openCV via pip :
-
-pip install opencv-python
-
-Utilize um editor de texto para testar o código : openCvPython.py salvo neste mesmo repositório.
