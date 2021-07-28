@@ -1,5 +1,0 @@
-Mat é uma classe com duas partes de dados: o cabeçalho da matriz (contendo informações como o tamanho da matriz, o método usado para armazenar, no qual o endereço é a matriz armazenada, e assim por diante) e um ponteiro para a matriz que contém o valores de pixel (tomando qualquer dimensionalidade dependendo do método escolhido para armazenamento). 
-O tamanho do cabeçalho da matriz é constante, no entanto, o tamanho da própria matriz pode variar de imagem para imagem e geralmente é maior em ordens de magnitude.
-
-
-
