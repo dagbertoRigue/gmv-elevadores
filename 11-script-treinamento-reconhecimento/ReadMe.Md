@@ -22,7 +22,7 @@
 	help(cv2.faces)
  - Run o programa. O log deverá trazer muitas informações, e finalizar o processo sem erros.
 
-============================================================================================================
+=============================================================================================
 
 Sequência dos scripts :
 1. captura.py
