@@ -24,5 +24,44 @@
 
 =============================================================================================
 
+------- Passos para executar esse projeto -------
+1. Instalar Cascade Train GUI :
+   - Acesse : https://amin-ahmadi.com/cascade-trainer-gui/
+   - Baixe a versão para o sistema operacional e faça a instalação padrão.
+2. Preparar os dados para treinamento :
+   - Criar conjunto de imagens positivas
+   - Criar conjunto de imagens negativas
+3. Exrcutar o script 'capturaBase'
+
+
+
 Sequência dos scripts :
-1. captura.py
+1. capturaBase.py
+
+Continua...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
